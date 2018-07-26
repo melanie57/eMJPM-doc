@@ -7,5 +7,9 @@ export default () => (
     <Link href="/mandataires">
       <a>Mandataires</a>
     </Link>
+    <hr />
+    <Link href="/preposes">
+      <a>Préposés</a>
+    </Link>
   </div>
 );

@@ -28,10 +28,14 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "remark": "^9.0.0",
+    "remark-autolink-headings": "^5.0.0",
+    "remark-emoji": "^2.0.1",
     "remark-frontmatter": "^1.2.0",
     "remark-html": "^7.0.0",
+    "remark-images": "^0.8.1",
     "remark-parse": "^5.0.0",
     "remark-react": "^4.0.3",
+    "remark-slug": "^5.0.0",
     "remark-toc": "^5.0.0"
   }
 }

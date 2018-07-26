@@ -1,27 +1,38 @@
 const withCSS = require("@zeit/next-css");
-// const images = require("remark-images");
-// const emoji = require("remark-emoji");
+
+const remark = {
+  images: require("remark-images"),
+  toc: require("remark-toc"),
+  frontmatter: require("remark-frontmatter"),
+  emoji: require("remark-emoji"),
+  slug: require("remark-slug"),
+  autolinkHeadings: require("remark-autolink-headings")
+};
 
 const withMDX = require("@zeit/next-mdx")({
+  extension: /\.mdx?$/,
   options: {
-    //mdPlugins: [images, emoji],
-    type: "yaml"
+    /// heading: "Sommaire",
+    mdPlugins: [
+      [remark.toc, { heading: "Sommaire" }],
+      [
+        remark.frontmatter,
+        {
+          type: "yaml",
+          marker: "-"
+        }
+      ],
+      //remark.images,
+      remark.emoji,
+      remark.autolinkHeadings,
+      remark.slug
+    ]
   }
 });
 
-const getMarkdownPagesMap = require("./src/getMarkdownPagesMap");
-
 module.exports = withMDX(
   withCSS({
-    exportPathMap: async defaultPathMap => {
-      const markdownMap = await getMarkdownPagesMap();
-      return {
-        "/": { page: "/" },
-        ...defaultPathMap,
-        ...markdownMap
-      };
-    },
-    pageExtensions: ["js", "md", "mdx"],
-    assetPrefix: ""
+    pageExtensions: ["js", "md", "mdx"]
+    //assetPrefix: ""
   })
 );
