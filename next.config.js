@@ -27,6 +27,10 @@ const withMDX = require("@zeit/next-mdx")({
       remark.autolinkHeadings,
       remark.slug
     ]
+    /*
+     type: "yaml",
+     marker: "-"
+    */
   }
 });
 
