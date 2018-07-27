@@ -14,7 +14,7 @@ const styles = {
     backgroundColor: "white",
     maxWidth: "800px",
     width: "80%",
-    margin: "0 auto"
+    margin: "20px auto 0 auto"
   },
   footer: {
     flex: "0 0 50px",
