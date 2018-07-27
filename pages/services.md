@@ -4,13 +4,15 @@ title: documentation Services
 
 ---
 
+# Documentation Services
+
 ## Sommaire
 
 ## Se connecter
 
-![homepage](/static/images/services/homepage.png)
+![homepage](/static/images/homepage.png)
 
-![login](/static/images/services/login.png)
+![login](/static/images/login.png)
 
 
 Indiquer l’identifiant et mot de passe communiqués par mail
@@ -26,7 +28,7 @@ A la première connexion, compléter les informations du service :
 Cliquer sur mes informations et compléter les données :
 
  - Nom et adresse du service, téléphone, mail
- - Inscrire le nombre de mesures souhaitées ou autorisées
+ - Inscrire le nombre de mesures souhaité ou autorisé
 
 :warning: Ne pas oublier d'enregistrer.
 
@@ -46,7 +48,6 @@ Dans « Modifier mes informations », indiquer le nombre total de mesures en cou
 ![nombres-mesures](/static/images/services/nombres-mesures.png)
 
 ## Merci
-
 
 Les informations enregistrées sont désormais accessibles aux magistrats.
 
