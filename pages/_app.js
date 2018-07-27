@@ -10,6 +10,11 @@ export default class MyApp extends App {
     const { Component, pageProps } = this.props;
     return (
       <Container>
+        <style global jsx>{`
+          .panel img {
+            max-width: 100%;
+          }
+        `}</style>
         <Layout>
           <Component {...pageProps} />
         </Layout>
