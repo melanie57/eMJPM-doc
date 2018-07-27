@@ -4,104 +4,60 @@ title: documentation Services
 
 ---
 
-# Sommaire
+## Sommaire
 
-# Services
+## Se connecter
 
-blalbla
+![homepage](/static/images/services/homepage.png)
 
-## Intro
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Process 1
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![login](/static/images/services/login.png)
 
 
-## Process 2
+Indiquer l’identifiant et mot de passe communiqués par mail
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:warning: attention aux espaces, minuscules, majuscules…
 
+## Première connexion
 
+A la première connexion, compléter les informations du service :
 
+![modifier-informations](/static/images/services/modifier-informations.png)
 
-# Contact
+Cliquer sur mes informations et compléter les données :
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ - Nom et adresse du service, téléphone, mail
+ - Inscrire le nombre de mesures souhaitées ou autorisées
 
-## Contact 1
+:warning: Ne pas oublier d'enregistrer.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![ajouter-ti](/static/images/services/ajouter-ti.png)
 
-### Contact 1.1
+Cliquer sur « Ajouter un nouveau TI » pour préciser le ou les TI pour le(s)quel(s) le service est agréé.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Contact 1.2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![ajouter-ti-selection](/static/images/services/ajouter-ti-selection.png)
 
 
+## Rendre efficient e-MJPM
 
-## Contact 2
+Mettre à jour le plus régulièrement possible (a minima 1 à 2 fois par mois) le nombre de mesures en cours  transmis instantanément aux juges des tutelles.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dans « Modifier mes informations », indiquer le nombre total de mesures en cours (tous TI confondus) :
 
-### Contact 2.1
+![nombres-mesures](/static/images/services/nombres-mesures.png)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Merci
 
-### Contact 2.2
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Les informations enregistrées sont désormais accessibles aux magistrats.
+
+Elles doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies .
+
+La version proposée ce jour va prochainement évoluer…
+
+L’ergonomie de l’outil est petit à petit repensée.
+
+Des possibilités supplémentaires vont seront prochainement offertes : par ex, renseigner les antennes et les sous capacités associées, préciser la nature des mesures suivies (tutelles, curatelles, sauvegardes de justice, ad'hoc, MAJ) pour connaître plus précisément l'activité de votre service...
+
+N'hésitez pas à nous faire part de vos remarques à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr)
+
+
