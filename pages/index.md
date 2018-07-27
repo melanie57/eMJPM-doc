@@ -11,10 +11,10 @@ title: documentation Services
 
 Choisissez votre profil pour consulter la documentation dédiée :
 
- - [Mandataires individuels](/individuels)
- - [Mandataires préposés](/preposes)
- - [Mandataires en services](/services)
- - [Magistrat](/magistrats)
+ - [Mandataires individuels](/individuels/)
+ - [Mandataires préposés](/preposes/)
+ - [Mandataires en services](/services/)
+ - [Magistrat](/magistrats/)
 
 Les liens utiles :
 
