@@ -6,7 +6,7 @@ title: documentation Services
 
 # Accueil documentation e-MJPM
 
-![banner](/eMJPM-doc/static/images/home-banner.jpg)
+![banner](/static/images/home-banner.jpg)
 
 
 Choisissez votre profil pour consulter la documentation dédiée :
