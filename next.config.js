@@ -12,31 +12,21 @@ const remark = {
 const withMDX = require("@zeit/next-mdx")({
   extension: /\.mdx?$/,
   options: {
-    /// heading: "Sommaire",
     mdPlugins: [
-      [remark.toc, { heading: "Sommaire" }],
-      [
-        remark.frontmatter,
-        {
-          type: "yaml",
-          marker: "-"
-        }
-      ],
-      //remark.images,
+      remark.toc,
+      remark.frontmatter,
       remark.emoji,
       remark.autolinkHeadings,
       remark.slug
-    ]
-    /*
-     type: "yaml",
-     marker: "-"
-    */
+    ],
+    heading: "Sommaire",
+    type: "yaml",
+    marker: "-"
   }
 });
 
 module.exports = withMDX(
   withCSS({
     pageExtensions: ["js", "md", "mdx"]
-    //assetPrefix: ""
   })
 );

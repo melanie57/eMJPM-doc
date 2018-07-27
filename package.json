@@ -2,6 +2,7 @@
   "name": "eMJPM-doc",
   "version": "1.0.0",
   "author": "Julien Bouquillon <julien.bouquillon@sg.social.gouv.fr>",
+  "homepage": "http://socialgouv.github.io/eMJPM-doc",
   "license": "MIT",
   "repository": {
     "type": "git",
