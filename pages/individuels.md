@@ -16,38 +16,45 @@ Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.g
 
 ![homepage](/static/images/homepage.png)
 
-Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
 
-Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
+Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
 
 ![login](/static/images/login.png)
 
+
+Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
+
 ## Première connexion
 
-A la 1e connexion, compléter mes informations :
+**1ere étape : complétez vos informations** 
+Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations.
+
+Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
 
 ![mes-informations](/static/images/individuels/mes-informations.png)
 
-Dans l'onglet « Mes informations », cliquer sur « Modifier mes informations » :
 
-![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
-
-Compléter :
+Dans la fenêtre, complétez vos informations : 
  - Nom, adresse, téléphone, mail
  - Le nombre de mesures souhaité
  - Le cas échéant, le nombre d'ETP de secrétariat
+ 
+Puis cliquez sur "enregistrer".
+ 
+![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
 
-:warning: Ne pas oublier d'enregistrer.
 
-Dans l'onglet « Mes informations », préciser le ou les TI sur le(s)quel(s) vous êtes agréé :
+**2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
-Cliquer sur le bouton « Ajouter un nouveau TI » :
+Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un nouveau TI" en haut de l'écran. 
 
 ![mes-informations-ti](/static/images/individuels/mes-informations-ti.png)
 
-Cliquer dans la liste des TI proposés. Valider après avoir sélectionné le TI.
+
+Saisissez votre TI, sélectionnez le dans la liste des TI proposés puis validez. Répétez l'opération si vous êtes agréé dans plusieurs TI.
 
 ![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
+
 
 ## Enregistrer les mesures en cours puis les mesures nouvelles :
 
