@@ -4,7 +4,7 @@ title: "documentation Individuels"
 
 ---
 
-# Documentation pour les MJPM Individuels
+# Guide d'utilisation pour les MJPM Individuels
 
 [< Revenir à l'accueil du guide d'utilisation](https://emjpm-doc.num.social.gouv.fr/)
 
