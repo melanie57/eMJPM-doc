@@ -109,7 +109,7 @@ Si vous devez modifier une mesure (par exemple, changement de lieu de vie du maj
 ![mesure-modifier](/static/images/individuels/mesure-modifier.png)
 
 
-Modifiez ensuite les données et validez.
+Modifiez ensuite les données et cliquez sur le bouton "Valider".
 
 ![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
 
