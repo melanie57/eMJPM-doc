@@ -12,13 +12,15 @@ title: "documentation Individuels"
 
 ## Se connecter
 
+Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
+
 ![homepage](/static/images/homepage.png)
 
+Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
+
+Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
+
 ![login](/static/images/login.png)
-
-Indiquer l’identifiant et mot de passe communiqués par mail
-
-:warning: attention aux espaces, minuscules, majuscules…
 
 ## Première connexion
 
