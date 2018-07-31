@@ -49,7 +49,7 @@ Dans l'onglet "Vos informations", cliquez sur le bouton "Ajouter un nouveau TI".
 
 ![ajouter-ti](/static/images/services/ajouter-ti.png)
 
-Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI proposés puis validez. Répétez l'opération si vous êtes agréé dans plusieurs TI.
+Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI proposés puis cliquez sur le bouton "Valider". Répétez l'opération si vous êtes agréé dans plusieurs TI.
 
 ![ajouter-ti-selection](/static/images/services/ajouter-ti-selection.png)
 
