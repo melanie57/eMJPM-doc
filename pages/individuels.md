@@ -38,9 +38,9 @@ Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier me
 
 
 Dans la fenêtre, complétez vos informations : 
- - Nom, adresse, téléphone, mail
- - Le nombre de mesures souhaité
- - Le cas échéant, le nombre d'ETP de secrétariat
+- Nom, adresse, téléphone, mail
+- Le nombre de mesures souhaité
+- Le cas échéant, le nombre d'ETP de secrétariat
  
 Puis cliquez sur "enregistrer".
  
