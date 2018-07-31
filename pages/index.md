@@ -4,19 +4,22 @@ title: documentation Services
 
 ---
 
-# Accueil documentation e-MJPM
-
 ![banner](/static/images/home-banner.jpg)
 
+# e-MJPM comment ça marche ?
 
-Choisissez votre profil pour consulter la documentation dédiée :
+**Consultez la documentation utile selon votre profil :**
 
- - [Mandataire individuel](/individuels/)
- - [Mandataire préposé](/preposes/)
- - [Service MJPM](/services/)
- - [Magistrat](/magistrats/)
+ - [Je suis un mandataire individuel](/individuels/)
+ - [Je suis un mandataire préposé](/preposes/)
+ - [Je suis un service MJPM](/services/)
+ - [Je suis un magistrat](/magistrats/)
 
-Les liens utiles :
+**Pour utiliser e-MJPM**
 
- - [Site de présentation e-MJPM](http://emjpm.beta.gouv.fr)
- - [Application e-MJPM](http://emjpm.num.social.gouv.fr)
+ - [Me connecter à e-MJPM](http://emjpm.num.social.gouv.fr)
+ - [Revenir au site de présentation e-MJPM](http://emjpm.beta.gouv.fr)
+
+**Nous sommes à votre écoute**
+
+Si vous avez la moindre difficulté pour utiliser e-MJPM, ou si vous souhaitez nous faire part de vos remarques, vous pouvez nous contacter à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr).
