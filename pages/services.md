@@ -30,7 +30,7 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre p
 
 Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
 
-**1ère étape : complétez les informations du service**
+## Complétez les informations du service
 
 Dans l'onglet "Vos informations", cliquez sur le bouton "Modifier vos informations".
 
@@ -43,7 +43,7 @@ Une fois ces informations saisies, cliquez sur le bouton "Valider".
 ![modifier-informations](/static/images/services/modifier-informations.png)
 
 
-**2eme étape : Ajoutez le ou les TI dans lesquels vous êtes agréé**
+## Ajoutez le ou les TI dans lesquels vous êtes agréé
 
 Dans l'onglet "Vos informations", cliquez sur le bouton "Ajouter un nouveau TI". 
 
@@ -54,7 +54,7 @@ Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI pr
 ![ajouter-ti-selection](/static/images/services/ajouter-ti-selection.png)
 
 
-**3eme étape : Indiquez le nombre de mesures en cours**
+## Indiquez le nombre de mesures en cours
 
 Dans l'onglet "Vos informations", cliquez sur le bouton "Modifier vos informations". Indiquez le nombre total de mesures en cours, **tous TI confondus**, gérés par votre service.
 
