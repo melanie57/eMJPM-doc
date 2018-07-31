@@ -1,10 +1,10 @@
 ---
 
-title: documentation Services
+title: Documentation pour les Services MJPM
 
 ---
 
-# Documentation Services
+# Documentation pour les Services MJPM
 
 [< Revenir à l'acceuil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
 
