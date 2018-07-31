@@ -56,67 +56,66 @@ Saisissez votre TI, sélectionnez le dans la liste des TI proposés puis validez
 ![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
 
 
+**3eme étape : Saisissez vos mesures en cours** 
+
+Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos mesures en cours. Rassurez vous, cette étape n'est à faire qu'une fois. Pas la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
+
+Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-les-mesures-en-cours-puis-les-mesures-nouvelles-).
+
+
 ## Enregistrer les mesures en cours puis les mesures nouvelles :
 
-Dans l'onglet « Mesures en cours », cliquer sur « enregistrer une nouvelle mesure » :
+Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. Puis completez pour chaque mesure :
+ - la date de décision de la mesure
+ - le type de mesure 
+ - le code postal et la commune de lieu de vie du majeur
+ - le genre du majeur
+ - l'année de naissance du majeur
+ - préciser si le majeur vit à domicile ou en établissement
 
 ![mesure-ajout](/static/images/individuels/mesure-ajout.png)
 
-Compléter :
 
- - la date de décision de la mesure (à partir du calendrier proposé)
- - le type de mesure (à partir du menu déroulant)
- - le code postal et la commune de lieu de vie du majeur
- - le genre du majeur (à partir du menu déroulant)
- - l'année de naissance du majeur
- - préciser si le majeur vit à domicile ou en établissement.
+Si le majeur vit en établissement, précisez le nom de l'établissement. Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
+
+Validez enfin la mesure en cliquant sur le bouton "Valider".
 
 ![mesure-modale](/static/images/individuels/mesure-modale.png)
 
-Si le majeur vit en établissement, préciser le nom de l'établissement :
 
-Inscrire les 1e lettres du nom de l'établissement, des propositions apparaîtront. Cliquer sur le nom recherché.
+La mesure nouvellement saisie apparaît alors dans la liste des mesures en cours. Le nombre de mesures suivies affiché dans l'onglet est automatiquement actualisé.
 
 ![mesure-valider](/static/images/individuels/mesure-valider.png)
 
-Ne pas oublier de valider.
 
-La mesure apparaît alors dans la liste des mesures en cours.
-
-Et le nombre de mesures suivies est actualisé (en haut de la page) par rapport au nombre souhaité.
 
 ## Modifier une mesure en cours :
 
-Dans « Mesures en cours », possibilité de modifier une mesure (ex : changement de lieu de vie du majeur ou de nature de la mesure).
-
-Cliquer sur le bouton « Modifier » correspondant à la mesure concernée :
+Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure), cliquez sur l'onglet "Mesures en cours", puis sur le bouton « Modifier » correspondant à la mesure concernée.
 
 ![mesure-modifier](/static/images/individuels/mesure-modifier.png)
 
-Modifier les données et valider.
+
+Modifiez ensuite les données et validez.
 
 ![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
 
 
 ## Mettre fin à une mesure en cours :
 
-Dans la liste des mesures en cours, cliquer sur « Mettre fin au mandat » de la mesure concernée :
+Dans l'onglet "Mesures en cours", cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée.
 
 ![mesure-fin-mandat](/static/images/individuels/mesure-fin-mandat.png)
 
 
-Compléter la date de fin de mandat et cliquer sur le bouton « Eteindre la mesure ».
+Complétez la date de fin de mandat et cliquez sur le bouton « Eteindre la mesure ».
 
 ![mesure-eteindre](/static/images/individuels/mesure-eteindre.png)
 
 
-La mesure apparaît alors dans l'onglet « Mesures éteintes » :
+La mesure apparaît alors dans l'onglet "Mesures éteintes". Mais vous avez la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure".
 
 ![mesure-reactiver](/static/images/individuels/mesure-reactiver.png)
-
-Possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton « Réactiver la mesure ».
-
-La mesure réapparaît alors dans l'onglet « Mesures en cours ».
 
 
 ## La géolocalisation des mesures :
