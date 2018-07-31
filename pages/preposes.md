@@ -36,13 +36,13 @@ Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier me
 
 ![mes-informations](/static/images/individuels/mes-informations.png)
 
+Dans la fenêtre, complétez vos informations :
 
-Dans la fenêtre, complétez vos informations : 
-- Nom, adresse, téléphone, mail
-- Le nombre de mesures souhaité
-- Le cas échéant, le nombre d'ETP de secrétariat
+ - Nom, adresse, téléphone, mail
+ - Le nombre de mesures souhaité
+ - Le cas échéant, le nombre d'ETP de secrétariat
  
-Puis cliquez sur "enregistrer".
+Puis cliquez sur le bouton "Enregistrer".
  
 ![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
 
