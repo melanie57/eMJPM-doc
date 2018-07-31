@@ -1,6 +1,6 @@
 ---
 
-title: documentation Préposés
+title: Documentation pour les MJPM préposés
 
 ---
 
