@@ -11,9 +11,9 @@ title: documentation Services
 
 Choisissez votre profil pour consulter la documentation dédiée :
 
- - [Mandataires individuels](/individuels/)
- - [Mandataires préposés](/preposes/)
- - [Services MJPM](/services/)
+ - [Mandataire individuel](/individuels/)
+ - [Mandataire préposé](/preposes/)
+ - [Service MJPM](/services/)
  - [Magistrat](/magistrats/)
 
 Les liens utiles :
