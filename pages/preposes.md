@@ -17,7 +17,7 @@ Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.g
 ![homepage](/static/images/homepage.png)
 
 
-Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
+Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Puis cliquez sur le bouton "Me connecter". Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
 
 ![login](/static/images/login.png)
 
