@@ -63,7 +63,7 @@ Saisissez votre TI, sélectionnez le dans la liste des TI proposés puis validez
 
 Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos mesures en cours. Rassurez vous, cette étape n'est à faire qu'une fois. Pas la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
-Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-les-mesures-en-cours-puis-les-mesures-nouvelles-).
+Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-vos-mesures).
 
 
 ## Enregistrer vos mesures
