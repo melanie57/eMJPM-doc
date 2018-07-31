@@ -6,7 +6,7 @@ title: Documentation pour les Services MJPM
 
 # Documentation pour les Services MJPM
 
-[< Revenir à l'acceuil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
+[< Revenir à l'accueil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
 
 ## Sommaire
 
