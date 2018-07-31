@@ -30,7 +30,7 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre p
 
 Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
 
-**1ère étape : complétez les informations du service
+**1ère étape : complétez les informations du service**
 
 Dans l'onglet "Vos informations", cliquez sur le bouton "Modifier vos informations".
 
@@ -38,7 +38,7 @@ Saisissez ensuite :
  - Nom et adresse du service, téléphone, mail
  - le nombre de mesures souhaité ou autorisé
  
-Une fois ces informations saisies, cliquez sur valider.
+Une fois ces informations saisies, cliquez sur le bouton "Valider".
 
 ![modifier-informations](/static/images/services/modifier-informations.png)
 
