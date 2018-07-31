@@ -6,132 +6,135 @@ title: documentation Préposés
 
 # Documentation préposés
 
+[< Revenir à l'acceuil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
+
 ## Sommaire
 
 ## Se connecter
 
+Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
+
 ![homepage](/static/images/homepage.png)
+
+
+Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
 
 ![login](/static/images/login.png)
 
-Indiquer l’identifiant et mot de passe communiqués par mail
 
-:warning: attention aux espaces, minuscules, majuscules…
+Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
 
 ## Première connexion
 
-A la 1e connexion, compléter mes informations.
+Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations, les tribunaux d'instance où vous êtes agréé, le ou les établissement(s) dans le(s)quel(s) vous exercez et saisir vos mesures en cours.
 
-![mes-informations](/static/images/preposes/mes-informations.png)
+Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
 
-Dans l'onglet « Mes informations », cliquer sur « Modifier mes informations » :
+Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
 
-![mes-informations-modal](/static/images/preposes/mes-informations-modal.png)
+![mes-informations](/static/images/individuels/mes-informations.png)
 
-Compléter :
- - Nom, adresse, téléphone, mail
- - Le nombre de mesures souhaité
- - Le cas échéant, le nombre d'ETP de secrétariat
 
-:warning: Ne pas oublier d'enregistrer.
+Dans la fenêtre, complétez vos informations : 
+- Nom, adresse, téléphone, mail
+- Le nombre de mesures souhaité
+- Le cas échéant, le nombre d'ETP de secrétariat
+ 
+Puis cliquez sur "enregistrer".
+ 
+![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
 
-Dans l'onglet « Mes informations », préciser le ou les établissements où vous exercez :
+
+**2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
+
+Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un nouveau TI" en haut de l'écran. 
+
+![mes-informations-ti](/static/images/individuels/mes-informations-ti.png)
+
+
+Saisissez votre TI, sélectionnez le dans la liste des TI proposés puis validez. Répétez l'opération si vous êtes agréé dans plusieurs TI.
+
+![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
+
+**3eme étape : Saisissez le ou les établissement(s) dans le(s)quel(s) vous exercez**
+
+Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un établissement".
 
 ![mes-informations-etablissements](/static/images/preposes/mes-informations-etablissements.png)
 
-Cliquer sur le bouton « Ajouter un nouvel établissement » :
+Sélectionnez ensuite le ou les établissement(s) en inscrivant les 1e lettres du nom puis cliquez sur le bouton "Valider".
 
 ![mes-informations-etablissements-choix](/static/images/preposes/mes-informations-etablissements-choix.png)
 
-Sélectionner le ou les établissements en inscrivant les 1e lettres du nom puis valider.
 
-Dans l'onglet « Mes informations », préciser le ou les TI sur le(s)quel(s) vous êtes agréé :
+**4eme étape : Saisissez vos mesures en cours** 
 
-Cliquer sur le bouton « Ajouter un nouveau TI » :
+Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos mesures en cours. Rassurez vous, cette étape n'est à faire qu'une fois. Pas la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
-![mes-informations-ti](/static/images/preposes/mes-informations-ti.png)
+Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-vos-mesures).
 
-Cliquer dans la liste des TI proposés. Valider après avoir sélectionné le TI.
 
-## Enregistrer les mesures en cours puis les mesures nouvelles :
+## Enregistrer vos mesures
 
-Dans l'onglet « Mesures en cours », cliquer sur « enregistrer une nouvelle mesure » :
+Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. Puis completez pour chaque mesure :
+ - la date de décision de la mesure
+ - le type de mesure 
+ - le code postal et la commune de lieu de vie du majeur
+ - le genre du majeur
+ - l'année de naissance du majeur
+ - préciser si le majeur vit à domicile ou en établissement
 
-![ajout-mesure](/static/images/preposes/ajout-mesure.png)
+![mesure-ajout](/static/images/individuels/mesure-ajout.png)
 
-Compléter :
 
- - La date de décision de la mesure (à partir du calendrier proposé)
- - Le type de mesure (à partir du menu déroulant)
- - Le code postal et la commune de lieu de vie du majeur
- - Le genre du majeur (à partir du menu déroulant)
- - L'année de naissance du majeur
- - Préciser si le majeur vit à domicile ou en établissement.
+Si le majeur vit en établissement, précisez le nom de l'établissement. Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
 
-![ajout-mesure-modal](/static/images/preposes/ajout-mesure-modal.png)
+Validez enfin la mesure en cliquant sur le bouton "Valider".
 
-Si le majeur vit en établissement, préciser le nom de l'établissement :
+![mesure-modale](/static/images/individuels/mesure-modale.png)
 
-Inscrire les 1e lettres du nom de l'établissement, des propositions apparaîtront. Cliquer sur le nom recherché.
 
-:warning: Ne pas oublier de valider.
+La mesure nouvellement saisie apparaît alors dans la liste des mesures en cours. Le nombre de mesures suivies affiché dans l'onglet est automatiquement actualisé.
 
-![ajout-mesure-valider](/static/images/preposes/ajout-mesure-valider.png)
-
-La mesure apparaît alors dans la liste des mesures en cours.
-
-Et le nombre de mesures suivies est actualisé (en haut de la page) par rapport au nombre souhaité.
-
-## Modifier une mesure en cours :
-
-Dans « Mesures en cours », possibilité de modifier une mesure (ex : changement de lieu de vie du majeur ou de nature de la mesure).
-
-Cliquer sur le bouton « Modifier » correspondant à la mesure concernée :
-
-![modifier-mesure](/static/images/preposes/modifier-mesure.png)
-
-Modifier les données et valider.
-
-![modifier-mesure-modal](/static/images/preposes/modifier-mesure-modal.png)
-
-## Mettre fin à une mesure en cours :
-
-Dans la liste des mesures en cours, cliquer sur « Mettre fin au mandat » de la mesure concernée :
-
-![modifier-mesure-fin-mandat](/static/images/preposes/modifier-mesure-fin-mandat.png)
-
-Compléter la date de fin de mandat et cliquer sur le bouton « Eteindre la mesure ».
-
-![modifier-mesure-eteindre](/static/images/preposes/modifier-mesure-eteindre.png)
-
-La mesure apparaît alors dans l'onglet « Mesures éteintes » :
-
-![modifier-mesure-reactiver](/static/images/preposes/modifier-mesure-reactiver.png)
-
-Possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton « Réactiver la mesure ».
-
-La mesure réapparaît alors dans l'onglet « Mesures en cours ».
-
-## La géolocalisation des mesures :
-
-L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements :
-
-![mesures-localiser](/static/images/preposes/mesures-localiser.png)
+![mesure-valider](/static/images/individuels/mesure-valider.png)
 
 
 
-## Merci
+## Modifier une mesure en cours
 
-Les informations enregistrées sont désormais accessibles aux magistrats.
+Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure), cliquez sur l'onglet "Mesures en cours", puis sur le bouton « Modifier » correspondant à la mesure concernée.
 
-Elles doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies .
-
-La version proposée ce jour va prochainement évoluer…
-
-L’ergonomie de l’outil est petit à petit repensée.
-
-Des possibilités supplémentaires vont seront prochainement offertes : par ex, renseigner les antennes et les sous capacités associées, préciser la nature des mesures suivies (tutelles, curatelles, sauvegardes de justice, ad'hoc, MAJ) pour connaître plus précisément l'activité de votre service...
-
-N'hésitez pas à nous faire part de vos remarques à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr)
+![mesure-modifier](/static/images/individuels/mesure-modifier.png)
 
 
+Modifiez ensuite les données et validez.
+
+![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
+
+
+## Mettre fin à une mesure en cours
+
+Dans l'onglet "Mesures en cours", cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée.
+
+![mesure-fin-mandat](/static/images/individuels/mesure-fin-mandat.png)
+
+
+Complétez la date de fin de mandat et cliquez sur le bouton « Eteindre la mesure ».
+
+![mesure-eteindre](/static/images/individuels/mesure-eteindre.png)
+
+
+La mesure apparaît alors dans l'onglet "Mesures éteintes". Mais vous avez la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure".
+
+![mesure-reactiver](/static/images/individuels/mesure-reactiver.png)
+
+
+## Voir la géolocalisation de mes mesures
+
+L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
+
+![mesure-localiser](/static/images/individuels/mesure-localiser.png)
+
+## Nous contacter
+
+Si vous avez la moindre difficulté pour utiliser e-MJPM, ou si vous souhaitez nous faire part de vos remarques, vous pouvez nous contacter à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr).
