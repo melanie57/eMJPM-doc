@@ -4,9 +4,9 @@ title: Documentation pour les MJPM Préposés
 
 ---
 
-# Documentation pour les MJPM Préposés
+# Guide d'utilisation pour les MJPM Préposés
 
-[< Revenir à l'accueil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
+[< Revenir à l'accueil](https://emjpm-doc.num.social.gouv.fr/)
 
 ## Sommaire
 
