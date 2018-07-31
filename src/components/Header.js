@@ -7,7 +7,7 @@ const Header = () => (
       <img src="/static/images/emjpm.png" style={{ maxHeight: 50 }} />
       <nav style={{ flex: "1 0 150px", textAlign: "right" }}>
         <Link href="/">
-          <a>Assistance</a>
+          <a>Guide d'utilisation</a>
         </Link>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://emjpm.num.social.gouv.fr">Se connecter</a>
