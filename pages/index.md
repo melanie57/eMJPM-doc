@@ -13,7 +13,7 @@ Choisissez votre profil pour consulter la documentation dédiée :
 
  - [Mandataires individuels](/individuels/)
  - [Mandataires préposés](/preposes/)
- - [Mandataires en services](/services/)
+ - [Services MJPM](/services/)
  - [Magistrat](/magistrats/)
 
 Les liens utiles :
