@@ -77,16 +77,17 @@ Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://em
 
 ## Enregistrer vos mesures
 
-Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. Puis completez pour chaque mesure :
+Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran.
+
+![mesure-ajout](/static/images/individuels/mesure-ajout.png)
+
+Completez pour chaque mesure :
  - la date de décision de la mesure
  - le type de mesure 
  - le code postal et la commune de lieu de vie du majeur
  - le genre du majeur
  - l'année de naissance du majeur
  - préciser si le majeur vit à domicile ou en établissement
-
-![mesure-ajout](/static/images/individuels/mesure-ajout.png)
-
 
 Si le majeur vit en établissement, précisez le nom de l'établissement. Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
 
