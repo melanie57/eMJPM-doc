@@ -6,7 +6,7 @@ title: "documentation Individuels"
 
 # Documentation pour les MJPM Individuels
 
-[< Revenir à l'acceuil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
+[< Revenir à l'accueil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
 
 ## Sommaire
 
