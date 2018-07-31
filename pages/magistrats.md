@@ -4,9 +4,9 @@ title: documentation Magistrats
 
 ---
 
-# Documentation pour les Magistrats
+# Guide d'utilisation pour les Magistrats
 
-[< Revenir à l'accueil de l'assistance](https://emjpm-doc.num.social.gouv.fr/)
+[< Revenir à l'accueil](https://emjpm-doc.num.social.gouv.fr/)
 
 ## Sommaire
 
