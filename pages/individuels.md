@@ -66,7 +66,7 @@ Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos
 Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-les-mesures-en-cours-puis-les-mesures-nouvelles-).
 
 
-## Enregistrer les mesures en cours puis les mesures nouvelles
+## Enregistrer vos mesures
 
 Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. Puis completez pour chaque mesure :
  - la date de décision de la mesure
