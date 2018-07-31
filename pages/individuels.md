@@ -85,9 +85,6 @@ Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvell
 
 ![mesure-ajout](/static/images/individuels/mesure-ajout.png)
 
-  
-&nbsp;
-
 Completez pour chaque mesure :
  - la date de décision de la mesure
  - le type de mesure 
