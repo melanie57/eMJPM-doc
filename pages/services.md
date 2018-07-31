@@ -36,7 +36,7 @@ Dans l'onglet "Vos informations", cliquez sur le bouton "Modifier vos informatio
 
 Saisissez ensuite :
  - Nom et adresse du service, téléphone, mail
- - le nombre de mesures souhaité ou autorisé
+ - Le nombre de mesures souhaité ou autorisé
  
 Une fois ces informations saisies, cliquez sur le bouton "Valider".
 
