@@ -34,13 +34,15 @@ Les informations enregistrées seront accessibles aux magistrats et doivent êtr
 
 Dans l'onglet "Vos informations", cliquez sur le bouton "Modifier vos informations".
 
+![modifier-informations](/static/images/services/modifier-informations.png)
+
 Saisissez ensuite :
  - Nom et adresse du service, téléphone, mail
  - Le nombre de mesures souhaité ou autorisé
  
 Une fois ces informations saisies, cliquez sur le bouton "Valider".
 
-![modifier-informations](/static/images/services/modifier-informations.png)
+![modifier-informations](/static/images/services/modifier-vos-informations-services.png)
 
 
 ## Ajoutez le ou les TI dans lesquels vous êtes agréé
