@@ -26,8 +26,11 @@ Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gou
 
 ## Première connexion
 
+Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations, les tribunaux d'instance où vous êtes agréé et saisir vos mesures en cours.
+
+Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
+
 **1ere étape : complétez vos informations** 
-Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations.
 
 Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
 
@@ -63,7 +66,7 @@ Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos
 Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-les-mesures-en-cours-puis-les-mesures-nouvelles-).
 
 
-## Enregistrer les mesures en cours puis les mesures nouvelles :
+## Enregistrer les mesures en cours puis les mesures nouvelles
 
 Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. Puis completez pour chaque mesure :
  - la date de décision de la mesure
@@ -89,7 +92,7 @@ La mesure nouvellement saisie apparaît alors dans la liste des mesures en cours
 
 
 
-## Modifier une mesure en cours :
+## Modifier une mesure en cours
 
 Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure), cliquez sur l'onglet "Mesures en cours", puis sur le bouton « Modifier » correspondant à la mesure concernée.
 
@@ -101,7 +104,7 @@ Modifiez ensuite les données et validez.
 ![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
 
 
-## Mettre fin à une mesure en cours :
+## Mettre fin à une mesure en cours
 
 Dans l'onglet "Mesures en cours", cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée.
 
@@ -118,23 +121,13 @@ La mesure apparaît alors dans l'onglet "Mesures éteintes". Mais vous avez la p
 ![mesure-reactiver](/static/images/individuels/mesure-reactiver.png)
 
 
-## La géolocalisation des mesures :
+## Voir la géolocalisation de mes mesures
 
-L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements :
+L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
 
 ![mesure-localiser](/static/images/individuels/mesure-localiser.png)
 
-## Merci
+## Nous contacter
 
-Les informations enregistrées sont désormais accessibles aux magistrats.
-
-Elles doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies .
-
-La version proposée ce jour va prochainement évoluer…
-
-L’ergonomie de l’outil est petit à petit repensée.
-
-Des possibilités supplémentaires vont seront prochainement offertes : par ex, renseigner les antennes et les sous capacités associées, préciser la nature des mesures suivies (tutelles, curatelles, sauvegardes de justice, ad'hoc, MAJ) pour connaître plus précisément l'activité de votre service...
-
-N'hésitez pas à nous faire part de vos remarques à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr)
+Si vous avez la moindre difficulté pour utiliser e-MJPM, ou si vous souhaitez nous faire part de vos remarques, vous pouvez nous contacter à [contact@emjpm.beta.gouv.fr](mailto:contact@emjpm.beta.gouv.fr).
 
