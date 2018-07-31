@@ -30,6 +30,8 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre p
 
 Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
 
+**1ere étape : complétez vos informations**
+
 Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
 
 ![mes-informations](/static/images/individuels/mes-informations.png)
