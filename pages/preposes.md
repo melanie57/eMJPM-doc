@@ -53,8 +53,7 @@ Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un nouveau TI" 
 
 ![mes-informations-ti](/static/images/individuels/mes-informations-ti.png)
 
-
-Saisissez votre TI, sélectionnez le dans la liste des TI proposés puis validez. Répétez l'opération si vous êtes agréé dans plusieurs TI.
+Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI proposés puis cliquez sur le bouton "Valider". Répétez l'opération si vous êtes agréé dans plusieurs TI.
 
 ![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
 
